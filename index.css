@@ -1,0 +1,33 @@
+body {
+    background-color: #181825;
+    color: #eba0ac;
+}
+
+a {
+    color: #f5c2e7;
+}
+
+pre {
+    text-align: center;
+    font-family: monospace;
+}
+
+.glow {
+    height: 100%;
+    text-align: center;
+}
+
+.glow div {
+    text-align: center;
+    font-family: monospace;
+    text-shadow: 0 0 80px #fab387, 0 0 30px #eba0ac, 0 0 6px #f38ba8;
+    color: #f38ba8;
+}
+
+.glow #content {
+    font-size: 20px;
+}
+
+.glow #content:hover {
+    text-shadow: 0 0 100px red, 0 0 40px FireBrick, 0 0 8px DarkRed;
+}
