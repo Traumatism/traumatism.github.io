@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mclareeen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://traumatism.github.io
+  * I am mclareeen (https://keybase.io/mclareeen) on keybase.
+  * I have a public key ASD6g9IUmLZ5ToHNf0lKsZN8n1swTcJqvL5EeU679_cKRAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a8956d692cf4e45e473ea2a83e18c3491eaed112138715c210731bda5a9223890a",
+      "host": "keybase.io",
+      "kid": "0120fa83d21498b6794e81cd7f494ab1937c9f5b304dc26abcbe44794ebbf7f70a440a",
+      "uid": "06849e7318e2218f393acee770cdeb19",
+      "username": "mclareeen"
+    },
+    "merkle_root": {
+      "ctime": 1660893843,
+      "hash": "25cb9131e6fbb19ec81e6bc00c2b5d649800f66644d4a2a2af234303d0d0e1d5d4a68bc680eca7cf346955bd15b4175893e280090d5c8e1ea14d25a3d945f38b",
+      "hash_meta": "87f3a6443d90dafb4274770f55903f5a08ca223ab783f38bd2a235c4899a8e36",
+      "seqno": 23050618
+    },
+    "service": {
+      "entropy": "4ZWkMhKBcxM+NiB4t6CJbW7b",
+      "hostname": "traumatism.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1660893890,
+  "expire_in": 504576000,
+  "prev": "4f6cc971104f9718e6f107c4bbce9c666569574142ba7588b65b67083164afa3",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+oPSFJi2eU6BzX9JSrGTfJ9bME3Cary+RHlOu/f3CkQKp3BheWxvYWTESpcCEsQgT2zJcRBPlxjm8QfEu86cZmVpV0FCunWItltnCDFkr6PEILDR/b5tOutS9L3x0cNmusnujgsrBXoxr3O5GszHnsdfAgHCo3NpZ8RALvPF1ZMyjW1FOx36pgOcvtybKlkiPgGDsIaM2bUEIL5TcJUp1qhVgVPZ/fKCDm/d1ZSdRsqFZND5mAdJ79k2AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJj4GeGP/byokPMPN95dIZljhaq2GowhksHeEBG6tRtto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mclareeen
+
+==================================================================
